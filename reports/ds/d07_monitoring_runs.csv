@@ -1,0 +1,5 @@
+as_of,model_version,customers_scored,new_customers,segment_changes,alerts,watches,retrain_recommended,reasons,mlflow_run_id,run_at
+2026-07-01,seg-v1.0,93187,93187,0,0,0,False,,a3062d33eafb4311b2a020a904970325,2026-11-07 21:16:52.037876
+2026-08-01,seg-v1.0,95794,2607,676,0,0,False,,cbd70e94c8cf48f398e259f7bda5f5f7,2026-11-07 21:18:04.235827
+2026-09-01,seg-v1.0,97903,2109,596,0,0,False,,795499f51adc4cd5958ce415af845dc6,2026-11-07 21:19:19.738003
+2026-10-01,seg-v1.0,100529,0,0,0,0,False,,84dbb3e7a6144b149baa32b16e1c7d09,2026-11-07 21:20:41.704679

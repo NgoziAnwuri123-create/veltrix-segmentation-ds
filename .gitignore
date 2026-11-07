@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# data (synthetic dataset and answer key are distributed separately; never committed)
+data/
+answer_key/
+**/_restricted/
+
+# MLflow tracking store and artifacts
+mlflow.db
+mlruns/
+
+# external-evaluation outputs reveal the restricted answer key
+reports/ds/d99_*
+
+# run logs and Python artefacts
+*.log
+__pycache__/
+.venv/
